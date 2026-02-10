@@ -1,4 +1,4 @@
-import "./box.css";
+import "./Box.css";
 
 function Box() {
   return (
